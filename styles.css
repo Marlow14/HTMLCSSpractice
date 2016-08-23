@@ -1,0 +1,56 @@
+h1{
+	color: #361356;
+	border-color: #251556;
+	border-style: hidden;
+	background-color: #B3ABCF;
+}
+
+#patch{
+	border-radius: 100%;
+	margin-left: 100px;
+	float: left;
+}
+
+#whistle{
+	height: 200px;
+	width: 500px;
+	float: right;
+}
+
+h2{
+	clear: both;
+	color: #6F4D8F;
+}
+
+a{
+	font-style: italic;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: #200439;
+	color: white;
+}
+
+#info{
+	clear: both;
+}
+
+ul li{
+	text-align: center;
+	list-style-type: none;
+	background-color: #9277AC;
+	clear: both;
+	}
+li a{
+	border-style: groove;
+	border-color: 200439;
+	display: block;
+}
+
+body{
+	background-image: url("http://www.jumpstartsports.com/upload/images/Radnor_Basketball/448650-basketball__mario_sports_mix_.png"); 
+	text-align: center;
+	
+}
+
